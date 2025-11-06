@@ -1,7 +1,9 @@
 # Cifrado-de-Vigenére 🦋
 
 Script con soporte para ISH-IOS
-ejecutar : python3 encript.py
+https://apps.apple.com/sr/app/ish-shell/id1436902243
+Ejecutar : 
+python3 encript.py
 
 Y desde Scriptable https://apps.apple.com/sr/app/scriptable/id1405459188
 Desde la app de Shortcuts 🕷️🕸️🧙🏻‍♂️
